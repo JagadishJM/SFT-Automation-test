@@ -1,0 +1,16 @@
+﻿RunAction "BCU_softpaq_extraction", oneIteration
+RunAction "BCU_Silent_install", oneIteration
+RunAction "BCU_Generate_Repset_File", oneIteration
+RunAction "BCU_Generate_repset_AdvSwitch", oneIteration
+RunAction "BCU_SetPass_8Char", oneIteration
+RunAction "BCU_ShortCommandline", oneIteration
+RunAction "BCU_Set_BIOS_Wronginput", oneIteration
+RunAction "BCU_BIOS_English", oneIteration
+RunAction "BCU_BIOS_Unchanged", oneIteration
+RunAction "BCU_BIOS_ReadOnly", oneIteration
+RunAction "BCU_BIOS_WrongSetting_Name", oneIteration
+RunAction "BCU_BIOS_WrongSetting_Value", oneIteration
+RunAction "BCU_Help", oneIteration
+RunAction "BCU_Verify_Userguide", oneIteration
+RunAction "BCU_Repair", oneIteration
+RunAction "BCU_nspwdfile", oneIteration
